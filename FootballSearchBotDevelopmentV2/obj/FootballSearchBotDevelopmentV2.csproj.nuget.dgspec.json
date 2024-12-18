@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2.csproj": {}
+  },
+  "projects": {
+    "/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2.csproj",
+        "projectName": "FootballSearchBotDevelopmentV2",
+        "projectPath": "/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2.csproj",
+        "packagesPath": "/home/gaalex/.nuget/packages/",
+        "outputPath": "/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gaalex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Fizzler": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Fizzler.Systems.HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Telegram.Bot.Extensions.Polling": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

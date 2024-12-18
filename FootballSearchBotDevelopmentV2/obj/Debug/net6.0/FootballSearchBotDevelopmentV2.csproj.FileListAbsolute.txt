@@ -1,0 +1,144 @@
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.exe
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.deps.json
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.runtimeconfig.json
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.pdb
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Telegram.Bot.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Telegram.Bot.Extensions.Polling.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.csproj.AssemblyReference.cache
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.AssemblyInfoInputs.cache
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.AssemblyInfo.cs
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.csproj.CoreCompileInputs.cache
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.csproj.CopyComplete
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/refint/FootballSearchBotDevelopmentV2.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.pdb
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.genruntimeconfig.cache
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/ref/FootballSearchBotDevelopmentV2.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/EntityFramework.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Fizzler.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Fizzler.Systems.HtmlAgilityPack.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/HtmlAgilityPack.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/MailKit.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/MimeKit.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/gaale/source/repos/FootballSearchBotDevelopmentV2/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.exe
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.deps.json
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.runtimeconfig.json
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.pdb
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/EntityFramework.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Fizzler.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Fizzler.Systems.HtmlAgilityPack.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/HtmlAgilityPack.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/MailKit.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/MimeKit.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Newtonsoft.Json.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.CodeDom.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Data.SqlClient.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Telegram.Bot.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Telegram.Bot.Extensions.Polling.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.csproj.AssemblyReference.cache
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.GeneratedMSBuildEditorConfig.editorconfig
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.AssemblyInfoInputs.cache
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.AssemblyInfo.cs
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.csproj.CoreCompileInputs.cache
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.csproj.CopyComplete
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/refint/FootballSearchBotDevelopmentV2.dll
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.pdb
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.genruntimeconfig.cache
+D:/FSBotDevelopment/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/ref/FootballSearchBotDevelopmentV2.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.deps.json
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.runtimeconfig.json
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/FootballSearchBotDevelopmentV2.pdb
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/EntityFramework.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Fizzler.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Fizzler.Systems.HtmlAgilityPack.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/HtmlAgilityPack.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/MailKit.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/MimeKit.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.CodeDom.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Data.SqlClient.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Telegram.Bot.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/Telegram.Bot.Extensions.Polling.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.csproj.AssemblyReference.cache
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.AssemblyInfoInputs.cache
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.AssemblyInfo.cs
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.csproj.CoreCompileInputs.cache
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.csproj.CopyComplete
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/refint/FootballSearchBotDevelopmentV2.dll
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.pdb
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/FootballSearchBotDevelopmentV2.genruntimeconfig.cache
+/home/gaalex/Programs/FSBot_v2.0 alpha/FootballSearchBotDevelopmentV2/obj/Debug/net6.0/ref/FootballSearchBotDevelopmentV2.dll
