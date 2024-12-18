@@ -2057,8 +2057,6 @@ namespace Program
             #region Bot
             
 
-            //var botClient =
-            //    new TelegramBotClient( "5268663020:AAFxN04GiAIy7nv_xQxvszXeZvBJiTaWsMY");
             var me = botClient.GetMeAsync();
             using var cts = new CancellationTokenSource();
             
