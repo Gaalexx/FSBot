@@ -727,25 +727,12 @@ namespace Program
                     {
                         Dictionary<long, string> addressee = new Dictionary<long, string>()
                         {
-                            {1819545054, "Саба Лирин" },
-                            {1611527773, "Ирина Соболева" },
-                            {956430886, "Саня" },
-                            {1871257206, "Ольга" },
-                            {184720434, "Даня" },
-                            {1711688591, "Людмила" },
-                            {876908375, "Лера" }
+                            {1819545054, "TEST" },
                         };
 
                         ReplyKeyboardMarkup adresseeMarkUp = new(new[]
                         {
-                            new KeyboardButton[] {addressee[876908375] },
                             new KeyboardButton[] { addressee[1819545054] },
-                            new KeyboardButton[] { addressee[1611527773] },
-                            new KeyboardButton[] { addressee[956430886] },
-                             new KeyboardButton[] { addressee[1871257206] },
-                             new KeyboardButton[] {addressee[184720434] },
-                             new KeyboardButton[] {addressee[1711688591]},
-                           // new KeyboardButton[] { "Выйти" },
                         })
                         {
                             ResizeKeyboard = true
