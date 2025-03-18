@@ -1,1 +1,1 @@
-This is just a school (I am very ashamed of it xd)
+This is just a school project(I am very ashamed of it xd)
